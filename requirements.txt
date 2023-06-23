@@ -8,5 +8,4 @@ dash-table==5.0.0
 SQLAlchemy==1.4.40
 plotly==5.10.0
 datetime
-base64
 subprocess
