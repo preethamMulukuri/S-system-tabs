@@ -9,3 +9,4 @@ SQLAlchemy==1.4.40
 plotly==5.10.0
 datetime
 gunicorn
+pyodbc==4.0.34
