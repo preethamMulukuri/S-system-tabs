@@ -10,7 +10,7 @@ import dash_bootstrap_components as dbc
 import subprocess
 from subprocess import call
 import datetime
-import base64
+#import base64
 from datetime import date
 import plotly.graph_objs as go
 import plotly.express as px
