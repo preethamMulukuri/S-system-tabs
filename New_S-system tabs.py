@@ -49,6 +49,7 @@ fig.update_xaxes(ticks= "outside",
 
 app = dash.Dash()
 application = app.server
+server = app.server
 app.title = 'S_system tabs'
 
 tab1_content = dbc.Card(
